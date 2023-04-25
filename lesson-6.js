@@ -157,4 +157,3 @@ const films = [
 ulFilms.insertAdjacentHTML('afterbegin',createMarkup(films));
 
 document.body.prepend(ulFilms);
-
